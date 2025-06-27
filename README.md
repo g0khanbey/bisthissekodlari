@@ -22,7 +22,7 @@ pip install pandas
 ```python
 import pandas as pd
 
-tickers = pd.read_csv("bist_tickers.csv")
+tickers = pd.read_csv("bisthissekodlari.csv")
 print(tickers.head())
 ```
 
